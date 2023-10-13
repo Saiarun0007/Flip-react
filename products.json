@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "productId": "qwerty",
+      "title": "title",
+      "brand": "asdfghjk",
+      "price": "",
+      "des": "",
+      "imgurl": "",
+      "id": 1
+    },
+    {
+      "productId": "In_0092",
+      "title": "galaxy M34 5G",
+      "brand": "samsung",
+      "price": "24499",
+      "des": "just phone",
+      "imgurl": "https://imgs.search.brave.com/4Jcxn7RLDClydWtHQ_yv2I7prL910qE3-OPp2YklzVs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2l6bW9jaGluYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDcvU2Ftc3Vu/Zy1HYWxheHktTTM0/LTVHLTUwMHg1MDAu/anBn",
+      "id": 2
+    }
+  ]
+}
